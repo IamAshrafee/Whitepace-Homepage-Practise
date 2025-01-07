@@ -1,0 +1,28 @@
+/* navBar starts here */
+#navBar {
+    height: 65px;
+    background-color: #043873;
+}
+
+.navBar-wrapper{
+    display: flex;
+}
+
+.logo {}
+
+.logo img {
+    height: 34px;
+    width: 191px;
+}
+
+.nav-items {}
+
+.nav-items ul {}
+
+.nav-items ul li {}
+
+.nav-item a {}
+
+.nav-item a:hover {}
+
+.nav-item img {}

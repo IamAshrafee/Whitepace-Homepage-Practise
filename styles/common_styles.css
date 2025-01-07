@@ -13,3 +13,32 @@ li{
     list-style: none;
 }
 
+button{
+    cursor: pointer;
+    border: none;
+    background: none;
+}
+
+.container{
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* font starts here  */
+.font-inter{
+    font-family: 'Inter', sans-serif;
+}
+
+
+
+.font-color-white{
+    color: #fff;
+}
+
+.font-color-black{
+    color: #000;
+}
+
+/* font ends here */
